@@ -147,3 +147,476 @@
  12:23 Q;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief®
  12:31 ShutdownGame:
  12:31 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \_Admin\Chief®\_Email\KeithFox@NerdForce.us\_Location\Ohio\_Maps\mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+  2:02 Q;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief®
+  3:30 J;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief®
+  4:28 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;83;MOD_FALLING;none
+  4:29 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;;-1;world;;none;95;MOD_FALLING;none
+  7:10 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;47;MOD_FALLING;none
+  7:41 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;;-1;world;;none;110;MOD_FALLING;none
+ 10:05 Q;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief®
+ 10:27 ShutdownGame:
+ 10:27 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+  0:47 J;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief®
+  4:23 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;;-1;world;;none;110;MOD_FALLING;none
+  4:49 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;4;MOD_FALLING;none
+  8:48 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;;-1;world;;none;110;MOD_FALLING;none
+  9:04 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;69;MOD_FALLING;none
+  9:14 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;;-1;world;;none;110;MOD_FALLING;none
+ 12:23 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;24;MOD_FALLING;none
+ 12:37 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;;-1;world;;none;110;MOD_FALLING;none
+ 12:53 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;96;MOD_FALLING;none
+ 13:13 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;;-1;world;;none;110;MOD_FALLING;none
+ 13:25 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;;-1;world;;none;110;MOD_FALLING;none
+ 14:24 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;28;MOD_FALLING;none
+ 14:37 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;69;MOD_FALLING;none
+ 15:21 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;;-1;world;;none;110;MOD_FALLING;none
+ 17:05 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;;-1;world;;none;110;MOD_FALLING;none
+ 18:25 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;42;MOD_FALLING;none
+ 19:05 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;;-1;world;;none;110;MOD_FALLING;none
+ 19:17 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;destructible_car;93;MOD_EXPLOSIVE;none
+ 20:26 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;68;MOD_FALLING;none
+ 21:01 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;41;MOD_FALLING;none
+ 21:26 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;16;MOD_FALLING;none
+ 22:07 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;;-1;world;;none;110;MOD_FALLING;none
+ 23:05 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;22;MOD_FALLING;none
+ 23:12 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;;-1;world;;none;110;MOD_FALLING;none
+ 23:59 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;;-1;world;;none;110;MOD_FALLING;none
+ 24:46 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;17;MOD_FALLING;none
+ 26:33 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;;-1;world;;none;110;MOD_FALLING;none
+ 27:35 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;36;MOD_FALLING;none
+ 27:46 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;1;MOD_FALLING;none
+ 27:52 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;19;MOD_FALLING;none
+ 29:23 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;47;MOD_FALLING;none
+ 30:33 ExitLevel: executed
+ 30:33 ShutdownGame:
+ 30:33 ------------------------------------------------------------
+ 30:33 ------------------------------------------------------------
+ 30:33 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+ 30:53 J;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief®
+ 32:34 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;;-1;world;;none;110;MOD_FALLING;none
+ 32:53 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;allies;Chief®;;-1;world;;none;2;MOD_FALLING;none
+ 33:38 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;;-1;world;;none;110;MOD_FALLING;none
+ 33:53 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;allies;Chief®;;-1;world;;none;96;MOD_FALLING;none
+ 35:29 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;ca40ab5a74513f5a3aa3b96c662a5fcd;-1;;Chief®;frag_grenade_mp;258;MOD_GRENADE_SPLASH;none
+ 35:56 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;allies;Chief®;ca40ab5a74513f5a3aa3b96c662a5fcd;6;allies;Chief®;frag_grenade_mp;86;MOD_GRENADE_SPLASH;none
+ 36:40 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;allies;Chief®;;-1;world;;none;98;MOD_FALLING;none
+ 47:43 Q;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief®
+ 47:44 ShutdownGame:
+ 47:44 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+  1:06 J;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief®
+  4:16 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;;-1;world;;none;110;MOD_FALLING;none
+ 10:44 Q;a77f90996ab331973da3b20c97bfefde;7;=|FF|= Betel
+ 18:27 Q;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief®
+ 18:28 ShutdownGame:
+ 18:28 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+  1:02 J;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief®
+  3:17 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;22;MOD_FALLING;none
+  5:35 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;28;MOD_FALLING;none
+  6:05 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;4;MOD_FALLING;none
+  6:25 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;25;MOD_FALLING;none
+  8:51 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;;-1;world;;none;110;MOD_FALLING;none
+  9:44 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;64;MOD_FALLING;none
+ 10:41 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;;-1;world;;none;110;MOD_FALLING;none
+ 10:42 Q;a77f90996ab331973da3b20c97bfefde;7;=|FF|= Betel
+ 12:18 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;41;MOD_FALLING;none
+ 12:38 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;79;MOD_FALLING;none
+ 13:09 Q;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief®
+ 24:04 ShutdownGame:
+ 24:04 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+  1:12 J;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief®
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+  5:53 J;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief®
+  7:31 Q;4e42a08baa82ea4e325c6f5199401c72;7;=|FF|= Cobra
+  7:54 Q;4e42a08baa82ea4e325c6f5199401c72;7;=|FF|= Cobra
+ 10:39 J;4e42a08baa82ea4e325c6f5199401c72;7;=|FF|= Cobra
+ 11:18 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;56;MOD_FALLING;none
+ 11:49 say;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief;/r_draw_decals 1
+ 13:16 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;;-1;world;;none;82;MOD_FALLING;none
+ 13:19 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;;-1;world;;none;110;MOD_FALLING;none
+ 15:52 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;97;MOD_FALLING;none
+ 15:57 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;;-1;world;;none;78;MOD_FALLING;none
+ 17:02 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;;-1;world;;none;110;MOD_FALLING;none
+ 18:03 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;m40a3_mp;107;MOD_RIFLE_BULLET;torso_upper
+ 18:39 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;;-1;world;;none;14;MOD_FALLING;none
+ 18:50 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;96;MOD_FALLING;none
+ 21:21 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;45;MOD_FALLING;none
+ 21:32 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;;-1;world;;none;110;MOD_FALLING;none
+ 22:26 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;m40a3_mp;107;MOD_RIFLE_BULLET;torso_lower
+ 23:49 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;m40a3_mp;142;MOD_HEAD_SHOT;head
+ 24:46 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;m40a3_mp;107;MOD_RIFLE_BULLET;torso_lower
+ 25:01 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;m40a3_mp;147;MOD_HEAD_SHOT;head
+ 25:33 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;m40a3_mp;103;MOD_RIFLE_BULLET;torso_lower
+ 27:52 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;m40a3_mp;147;MOD_HEAD_SHOT;head
+ 29:01 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;m40a3_mp;107;MOD_RIFLE_BULLET;torso_lower
+ 29:23 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;m40a3_mp;147;MOD_HEAD_SHOT;head
+ 30:12 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;deserteaglegold_mp;89;MOD_HEAD_SHOT;head
+ 30:17 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;;-1;world;;none;13;MOD_FALLING;none
+ 30:33 ExitLevel: executed
+ 30:33 ShutdownGame:
+ 30:33 ------------------------------------------------------------
+ 30:33 ------------------------------------------------------------
+ 30:33 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+ 30:42 J;4e42a08baa82ea4e325c6f5199401c72;7;=|FF|= Cobra
+ 30:53 J;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief®
+ 32:40 Q;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief®
+ 32:46 J;1cd4574bdc334d8b02b9a4b12ee895bb;8;Mark 
+ 32:55 J;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief®
+ 33:42 D;1cd4574bdc334d8b02b9a4b12ee895bb;8;axis;Mark ;;-1;world;;none;34;MOD_FALLING;none
+ 33:50 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;m40a3_mp;147;MOD_HEAD_SHOT;head
+ 34:31 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;ak47_mp;28;MOD_RIFLE_BULLET;torso_lower
+ 34:31 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;ak47_mp;16;MOD_RIFLE_BULLET;right_leg_lower
+ 34:32 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;ak47_mp;29;MOD_RIFLE_BULLET;torso_upper
+ 34:32 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;ak47_mp;8;MOD_RIFLE_BULLET;left_leg_upper
+ 34:32 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;ak47_mp;29;MOD_RIFLE_BULLET;right_leg_upper
+ 35:03 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;37;MOD_FALLING;none
+ 35:18 D;1cd4574bdc334d8b02b9a4b12ee895bb;8;axis;Mark ;;-1;world;;none;7;MOD_FALLING;none
+ 35:39 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;m40a3_mp;147;MOD_HEAD_SHOT;head
+ 36:08 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;ak47_mp;77;MOD_HEAD_SHOT;head
+ 36:14 K;1cd4574bdc334d8b02b9a4b12ee895bb;8;;Mark ;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;m40a3_mp;107;MOD_RIFLE_BULLET;torso_upper
+ 36:42 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;ak47_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 36:42 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;ak47_mp;44;MOD_RIFLE_BULLET;right_foot
+ 36:43 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;ak47_mp;50;MOD_RIFLE_BULLET;torso_lower
+ 37:22 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;;-1;world;;none;110;MOD_FALLING;none
+ 38:01 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;;-1;world;;none;110;MOD_FALLING;none
+ 38:35 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;;-1;world;;none;110;MOD_FALLING;none
+ 38:53 D;1cd4574bdc334d8b02b9a4b12ee895bb;8;axis;Mark ;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;deserteaglegold_mp;70;MOD_PISTOL_BULLET;left_arm_lower
+ 38:53 K;1cd4574bdc334d8b02b9a4b12ee895bb;8;;Mark ;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;deserteaglegold_mp;70;MOD_PISTOL_BULLET;torso_lower
+ 38:53 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;ak47_mp;16;MOD_RIFLE_BULLET;torso_lower
+ 39:01 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;beretta_mp;14;MOD_PISTOL_BULLET;torso_lower
+ 39:01 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;deserteaglegold_mp;70;MOD_PISTOL_BULLET;left_leg_lower
+ 39:01 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;deserteaglegold_mp;70;MOD_PISTOL_BULLET;torso_upper
+ 39:13 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;deserteaglegold_mp;68;MOD_PISTOL_BULLET;left_leg_lower
+ 39:14 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;ak47_mp;56;MOD_RIFLE_BULLET;torso_upper
+ 39:15 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;1cd4574bdc334d8b02b9a4b12ee895bb;8;;Mark ;ak47_mp;56;MOD_RIFLE_BULLET;torso_lower
+ 39:19 Weapon;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief;m40a3_mp
+ 39:47 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ak47_mp;56;MOD_RIFLE_BULLET;right_leg_lower
+ 39:49 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;ak47_mp;56;MOD_RIFLE_BULLET;right_leg_lower
+ 39:49 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;ak47_mp;56;MOD_RIFLE_BULLET;torso_lower
+ 40:01 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;19;MOD_FALLING;none
+ 40:13 K;1cd4574bdc334d8b02b9a4b12ee895bb;8;;Mark ;;-1;world;;none;110;MOD_FALLING;none
+ 40:20 Q;1cd4574bdc334d8b02b9a4b12ee895bb;8;Mark 
+ 40:56 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ak47_mp;56;MOD_RIFLE_BULLET;right_arm_upper
+ 41:16 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ak47_mp;42;MOD_RIFLE_BULLET;torso_lower
+ 41:16 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ak47_mp;42;MOD_RIFLE_BULLET;torso_lower
+ 41:26 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;m40a3_mp;107;MOD_RIFLE_BULLET;torso_lower
+ 42:16 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;m40a3_mp;98;MOD_RIFLE_BULLET;left_leg_upper
+ 42:17 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;m40a3_mp;98;MOD_RIFLE_BULLET;right_leg_upper
+ 42:18 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;;-1;world;;none;110;MOD_FALLING;none
+ 42:53 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;ak47_mp;42;MOD_RIFLE_BULLET;torso_lower
+ 42:55 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;ak47_mp;42;MOD_RIFLE_BULLET;torso_upper
+ 43:01 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ak47_mp;60;MOD_HEAD_SHOT;head
+ 43:01 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;ak47_mp;60;MOD_HEAD_SHOT;head
+ 43:32 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;;-1;world;;none;110;MOD_FALLING;none
+ 43:42 Weapon;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief;ak47_mp
+ 44:41 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;;-1;world;;none;110;MOD_FALLING;none
+ 44:41 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;ca40ab5a74513f5a3aa3b96c662a5fcd;-1;;Chief®;frag_grenade_mp;202;MOD_GRENADE_SPLASH;none
+ 45:22 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;57;MOD_FALLING;none
+ 45:30 Weapon;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief;ak47_mp
+ 46:06 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;;-1;world;;none;110;MOD_FALLING;none
+ 46:12 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;;-1;world;;none;110;MOD_FALLING;none
+ 47:25 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ak47_mp;42;MOD_RIFLE_BULLET;torso_upper
+ 47:30 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ak47_mp;42;MOD_RIFLE_BULLET;torso_upper
+ 47:46 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ak47_mp;51;MOD_HEAD_SHOT;head
+ 47:51 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ak47_mp;37;MOD_RIFLE_BULLET;torso_upper
+ 47:52 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;ak47_mp;42;MOD_RIFLE_BULLET;torso_lower
+ 48:05 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;;-1;world;;none;4;MOD_FALLING;none
+ 48:34 Weapon;4e42a08baa82ea4e325c6f5199401c72;7;=|FF|= Cobra;ak47_mp
+ 48:34 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;33;MOD_FALLING;none
+ 49:03 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;ca40ab5a74513f5a3aa3b96c662a5fcd;-1;;Chief®;none;100000;MOD_SUICIDE;none
+ 50:44 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;m40a3_mp;98;MOD_RIFLE_BULLET;right_arm_upper
+ 50:48 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;m40a3_mp;147;MOD_HEAD_SHOT;head
+ 51:11 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;m40a3_mp;98;MOD_RIFLE_BULLET;right_leg_upper
+ 51:18 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;m40a3_mp;107;MOD_RIFLE_BULLET;torso_lower
+ 51:33 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;m40a3_mp;147;MOD_HEAD_SHOT;head
+ 57:25 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;65;MOD_FALLING;none
+ 57:39 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;29;MOD_FALLING;none
+ 59:52 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;42;MOD_FALLING;none
+ 59:58 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;;-1;world;;none;13;MOD_FALLING;none
+ 60:34 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;;-1;world;;none;110;MOD_FALLING;none
+ 60:41 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;ca40ab5a74513f5a3aa3b96c662a5fcd;-1;;Chief®;frag_grenade_mp;237;MOD_GRENADE_SPLASH;none
+ 61:07 ExitLevel: executed
+ 61:07 ShutdownGame:
+ 61:07 ------------------------------------------------------------
+ 61:07 ------------------------------------------------------------
+ 61:07 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+ 61:17 J;4e42a08baa82ea4e325c6f5199401c72;7;=|FF|= Cobra
+ 61:22 J;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief®
+ 63:00 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;m40a3_mp;91;MOD_RIFLE_BULLET;right_leg_upper
+ 63:00 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;ak47_mp;47;MOD_RIFLE_BULLET;right_leg_lower
+ 63:00 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;ak47_mp;47;MOD_RIFLE_BULLET;right_leg_upper
+ 63:00 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;ak47_mp;47;MOD_RIFLE_BULLET;right_arm_upper
+ 63:05 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;;-1;world;;none;110;MOD_FALLING;none
+ 63:27 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;m40a3_mp;98;MOD_RIFLE_BULLET;right_arm_lower
+ 63:28 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;m40a3_mp;107;MOD_RIFLE_BULLET;torso_lower
+ 63:37 Weapon;4e42a08baa82ea4e325c6f5199401c72;7;=|FF|= Cobra;m40a3_mp
+ 64:04 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;ak47_mp;32;MOD_RIFLE_BULLET;right_leg_lower
+ 64:04 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;ak47_mp;56;MOD_RIFLE_BULLET;torso_upper
+ 64:05 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;ak47_mp;77;MOD_HEAD_SHOT;head
+ 64:53 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;;-1;world;;none;26;MOD_FALLING;none
+ 64:58 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;beretta_mp;37;MOD_HEAD_SHOT;head
+ 65:04 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;m40a3_mp;107;MOD_RIFLE_BULLET;torso_lower
+ 65:37 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;ak47_mp;77;MOD_HEAD_SHOT;head
+ 65:43 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;m40a3_mp;98;MOD_RIFLE_BULLET;left_leg_upper
+ 65:44 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;ak47_mp;56;MOD_RIFLE_BULLET;right_arm_lower
+ 65:45 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;ak47_mp;56;MOD_RIFLE_BULLET;torso_lower
+ 65:53 say;4e42a08baa82ea4e325c6f5199401c72;7;=|FF|= Cobra;^1G^7ood^1! G^7ame^1!
+ 65:56 say;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief;^2Gimme some dap
+ 65:58 say;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief;^3Thank you
+ 66:25 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;beretta_mp;22;MOD_PISTOL_BULLET;right_leg_upper
+ 66:26 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;beretta_mp;22;MOD_PISTOL_BULLET;torso_lower
+ 66:28 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;beretta_mp;22;MOD_PISTOL_BULLET;right_leg_lower
+ 66:45 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;deserteaglegold_mp;53;MOD_PISTOL_BULLET;torso_lower
+ 66:59 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;m40a3_mp;136;MOD_MELEE;torso_lower
+ 67:22 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;beretta_mp;54;MOD_PISTOL_BULLET;torso_lower
+ 67:22 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;beretta_mp;53;MOD_PISTOL_BULLET;right_arm_lower
+ 67:25 Weapon;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief;m40a3_mp
+ 69:08 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;44;MOD_FALLING;none
+ 69:10 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;22;MOD_FALLING;none
+ 70:26 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;m40a3_mp;147;MOD_HEAD_SHOT;head
+ 70:46 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;m40a3_mp;107;MOD_RIFLE_BULLET;torso_lower
+ 71:06 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;;-1;world;;none;22;MOD_FALLING;none
+ 71:20 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;m40a3_mp;147;MOD_HEAD_SHOT;head
+ 72:50 Weapon;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief;beretta_mp
+ 73:02 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;ak47_mp;42;MOD_RIFLE_BULLET;right_arm_lower
+ 73:03 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;ak47_mp;42;MOD_RIFLE_BULLET;torso_upper
+ 73:08 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;ak47_mp;37;MOD_RIFLE_BULLET;torso_lower
+ 73:09 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;ak47_mp;42;MOD_RIFLE_BULLET;right_leg_upper
+ 73:09 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;ak47_mp;42;MOD_RIFLE_BULLET;left_leg_upper
+ 74:35 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;;-1;world;;none;110;MOD_FALLING;none
+ 75:07 Weapon;4e42a08baa82ea4e325c6f5199401c72;7;=|FF|= Cobra;m40a3_mp
+ 75:07 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;;-1;world;;none;110;MOD_FALLING;none
+ 75:23 Weapon;4e42a08baa82ea4e325c6f5199401c72;7;=|FF|= Cobra;m40a3_mp
+ 75:45 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;;-1;world;;none;110;MOD_FALLING;none
+ 75:52 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;;-1;world;;none;110;MOD_FALLING;none
+ 76:13 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;ak47_mp;42;MOD_RIFLE_BULLET;left_arm_upper
+ 76:42 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;ak47_mp;42;MOD_RIFLE_BULLET;right_arm_lower
+ 76:43 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;ak47_mp;29;MOD_RIFLE_BULLET;neck
+ 76:49 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;ak47_mp;57;MOD_HEAD_SHOT;head
+ 76:58 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;ak47_mp;32;MOD_RIFLE_BULLET;right_arm_upper
+ 76:58 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;ak47_mp;32;MOD_RIFLE_BULLET;torso_lower
+ 77:04 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;beretta_mp;14;MOD_PISTOL_BULLET;left_leg_upper
+ 77:08 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;beretta_mp;14;MOD_PISTOL_BULLET;right_arm_lower
+ 77:09 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;beretta_mp;37;MOD_HEAD_SHOT;head
+ 77:10 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;beretta_mp;37;MOD_HEAD_SHOT;head
+ 78:10 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;m40a3_mp;147;MOD_HEAD_SHOT;head
+ 78:31 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;m40a3_mp;147;MOD_RIFLE_BULLET;neck
+ 79:11 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;;-1;world;;none;110;MOD_FALLING;none
+ 79:55 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;;-1;world;;none;110;MOD_FALLING;none
+ 80:04 Weapon;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief;m40a3_mp
+ 80:21 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;m40a3_mp;107;MOD_RIFLE_BULLET;torso_lower
+ 80:29 Weapon;4e42a08baa82ea4e325c6f5199401c72;7;=|FF|= Cobra;m40a3_mp
+ 80:39 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;deserteaglegold_mp;64;MOD_PISTOL_BULLET;right_arm_upper
+ 80:46 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;m40a3_mp;107;MOD_RIFLE_BULLET;torso_lower
+ 80:50 Weapon;4e42a08baa82ea4e325c6f5199401c72;7;=|FF|= Cobra;m40a3_mp
+ 81:10 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;m40a3_mp;107;MOD_RIFLE_BULLET;torso_upper
+ 81:14 Weapon;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief;m40a3_mp
+ 81:29 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;m40a3_mp;107;MOD_RIFLE_BULLET;torso_lower
+ 81:53 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;frag_grenade_mp;132;MOD_GRENADE_SPLASH;none
+ 82:12 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;m40a3_mp;107;MOD_RIFLE_BULLET;torso_lower
+ 82:15 Weapon;4e42a08baa82ea4e325c6f5199401c72;7;=|FF|= Cobra;m40a3_mp
+ 82:23 Weapon;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief;m40a3_mp
+ 82:35 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;beretta_silencer_mp;28;MOD_PISTOL_BULLET;torso_lower
+ 82:40 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;m40a3_mp;107;MOD_RIFLE_BULLET;torso_lower
+ 82:54 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;m40a3_mp;147;MOD_HEAD_SHOT;head
+ 83:12 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;m40a3_mp;107;MOD_RIFLE_BULLET;torso_upper
+ 83:16 Weapon;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief;m40a3_mp
+ 83:17 Weapon;4e42a08baa82ea4e325c6f5199401c72;7;=|FF|= Cobra;m40a3_mp
+ 83:44 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;m40a3_mp;98;MOD_RIFLE_BULLET;left_arm_upper
+ 83:52 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;18;MOD_FALLING;none
+ 83:57 D;ca40ab5a74513f5a3aa3b96c662a5fcd;6;axis;Chief®;;-1;world;;none;29;MOD_FALLING;none
+ 84:11 D;4e42a08baa82ea4e325c6f5199401c72;7;allies;=|FF|= Cobra;;-1;world;;none;35;MOD_FALLING;none
+ 86:28 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;m40a3_mp;147;MOD_HEAD_SHOT;head
+ 86:48 K;4e42a08baa82ea4e325c6f5199401c72;7;;=|FF|= Cobra;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;m40a3_mp;107;MOD_RIFLE_BULLET;torso_lower
+ 86:57 Q;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief®
+ 87:00 Q;4e42a08baa82ea4e325c6f5199401c72;7;=|FF|= Cobra
+ 91:41 ExitLevel: executed
+ 91:41 ShutdownGame:
+ 91:41 ------------------------------------------------------------
+ 91:41 ------------------------------------------------------------
+ 91:41 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+122:15 ExitLevel: executed
+122:15 ShutdownGame:
+122:15 ------------------------------------------------------------
+122:15 ------------------------------------------------------------
+122:15 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+130:58 ShutdownGame:
+130:58 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+ 30:33 ExitLevel: executed
+ 30:33 ShutdownGame:
+ 30:33 ------------------------------------------------------------
+ 30:33 ------------------------------------------------------------
+ 30:33 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+ 34:35 ShutdownGame:
+ 34:35 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+  0:31 J;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief®
+  2:33 K;ca40ab5a74513f5a3aa3b96c662a5fcd;6;;Chief®;;-1;world;;none;110;MOD_FALLING;none
+  2:34 Q;ca40ab5a74513f5a3aa3b96c662a5fcd;6;Chief®
+ 30:33 ExitLevel: executed
+ 30:33 ShutdownGame:
+ 30:33 ------------------------------------------------------------
+ 30:33 ------------------------------------------------------------
+ 30:33 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+ 61:07 ExitLevel: executed
+ 61:07 ShutdownGame:
+ 61:07 ------------------------------------------------------------
+ 61:07 ------------------------------------------------------------
+ 61:07 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+ 91:41 ExitLevel: executed
+ 91:41 ShutdownGame:
+ 91:41 ------------------------------------------------------------
+ 91:41 ------------------------------------------------------------
+ 91:41 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+122:15 ExitLevel: executed
+122:15 ShutdownGame:
+122:15 ------------------------------------------------------------
+122:15 ------------------------------------------------------------
+122:15 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+152:49 ExitLevel: executed
+152:49 ShutdownGame:
+152:49 ------------------------------------------------------------
+152:49 ------------------------------------------------------------
+152:49 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+183:22 ExitLevel: executed
+183:22 ShutdownGame:
+183:22 ------------------------------------------------------------
+183:22 ------------------------------------------------------------
+183:22 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+213:56 ExitLevel: executed
+213:56 ShutdownGame:
+213:56 ------------------------------------------------------------
+213:56 ------------------------------------------------------------
+213:56 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+244:30 ExitLevel: executed
+244:30 ShutdownGame:
+244:30 ------------------------------------------------------------
+244:30 ------------------------------------------------------------
+244:30 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+275:04 ExitLevel: executed
+275:04 ShutdownGame:
+275:04 ------------------------------------------------------------
+275:04 ------------------------------------------------------------
+275:04 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+305:38 ExitLevel: executed
+305:38 ShutdownGame:
+305:38 ------------------------------------------------------------
+305:38 ------------------------------------------------------------
+305:38 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+336:11 ExitLevel: executed
+336:11 ShutdownGame:
+336:11 ------------------------------------------------------------
+336:11 ------------------------------------------------------------
+336:11 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+366:45 ExitLevel: executed
+366:45 ShutdownGame:
+366:45 ------------------------------------------------------------
+366:45 ------------------------------------------------------------
+366:45 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+397:19 ExitLevel: executed
+397:19 ShutdownGame:
+397:19 ------------------------------------------------------------
+397:19 ------------------------------------------------------------
+397:19 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+427:53 ExitLevel: executed
+427:53 ShutdownGame:
+427:53 ------------------------------------------------------------
+427:53 ------------------------------------------------------------
+427:53 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+458:27 ExitLevel: executed
+458:27 ShutdownGame:
+458:27 ------------------------------------------------------------
+458:27 ------------------------------------------------------------
+458:27 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+489:00 ExitLevel: executed
+489:00 ShutdownGame:
+489:00 ------------------------------------------------------------
+489:00 ------------------------------------------------------------
+489:00 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+519:34 ExitLevel: executed
+519:34 ShutdownGame:
+519:34 ------------------------------------------------------------
+519:34 ------------------------------------------------------------
+519:34 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+550:08 ExitLevel: executed
+550:08 ShutdownGame:
+550:08 ------------------------------------------------------------
+550:08 ------------------------------------------------------------
+550:08 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+580:42 ExitLevel: executed
+580:42 ShutdownGame:
+580:42 ------------------------------------------------------------
+580:42 ------------------------------------------------------------
+580:42 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+  0:01 J;;0;Chief®
+  1:21 ShutdownGame:
+  1:21 ------------------------------------------------------------
+611:16 ExitLevel: executed
+611:16 ShutdownGame:
+611:16 ------------------------------------------------------------
+611:16 ------------------------------------------------------------
+611:16 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+641:49 ExitLevel: executed
+641:49 ShutdownGame:
+641:49 ------------------------------------------------------------
+641:49 ------------------------------------------------------------
+641:49 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+672:23 ExitLevel: executed
+672:23 ShutdownGame:
+672:23 ------------------------------------------------------------
+672:23 ------------------------------------------------------------
+672:23 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+702:57 ExitLevel: executed
+702:57 ShutdownGame:
+702:57 ------------------------------------------------------------
+702:57 ------------------------------------------------------------
+702:57 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+732:47 ShutdownGame:
+732:47 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+ 30:33 ExitLevel: executed
+ 30:33 ShutdownGame:
+ 30:33 ------------------------------------------------------------
+ 30:33 ------------------------------------------------------------
+ 30:33 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+ 61:07 ExitLevel: executed
+ 61:07 ShutdownGame:
+ 61:07 ------------------------------------------------------------
+ 61:07 ------------------------------------------------------------
+ 61:07 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+ 91:41 ExitLevel: executed
+ 91:41 ShutdownGame:
+ 91:41 ------------------------------------------------------------
+ 91:41 ------------------------------------------------------------
+ 91:41 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+122:15 ExitLevel: executed
+122:15 ShutdownGame:
+122:15 ------------------------------------------------------------
+122:15 ------------------------------------------------------------
+122:15 InitGame: \_Admin\Chief®\_Location\Ohio\_Maps\mp_wallace, mp_crash, mp_chinatown\fs_game\mods/wallace\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_wallace\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\1\sv_hostname\^2Chief's Test Server\sv_maxclients\24\sv_maxPing\500\sv_maxRate\25000\sv_minPing\0\sv_privateClients\6\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32
+135:41 ShutdownGame:
+135:41 ------------------------------------------------------------
