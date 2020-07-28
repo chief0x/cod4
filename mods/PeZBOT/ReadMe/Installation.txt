@@ -1,0 +1,122 @@
+======================
+How to Install PeZBOT:
+======================
+
+[This is pre-alpha code, meaning it is in no way feature complete and may be full of bugs!]
+[Check below for instructions on how to install the mod with the Steam version of Call of Duty 4!]
+[If you have trouble getting the mod to work after following these instructions - please ask for help in the PeZBOT forums, here: http://www.moddb.com/mods/pezbot/forum]
+[Most of the people who contact us are not installing the mod correctly. Follow these instructions to the letter!]
+
+
+------------------------------------------
+How to install on Windows XP, Vista and 7:
+------------------------------------------
+
+1) Once you have downloaded the .zip file, extract it to the desktop temporarily. 
+
+2) Now that you have it extracted, you should have a folder called PeZBOT on your desktop.
+
+3) Right Click on the folder, and click "Copy" or "Cut".
+ 
+4) Navigate to this directory (default): "C:\Program Files\Activision\Call of Duty 4 - Modern Warfare" 
+
+5) In there should be another folder called "Mods", if there isn't one - create one. 
+
+6) Open the "Mods" folder, then Right Click, and "Paste" the PeZBOT folder we copied earlier from the dekstop.
+
+7) With your desktop shortcut to Call of Duty 4 Multiplayer (Create one if you don't have one) you need to Right Click on it, then click on Properties.
+
+8) You should see: "Target: C:\Program Files\Activision\Call of Duty 4 - Modern Warfare\iw3mp.exe"
+
+9) Add this onto the end of the target line: +set fs_game "mods/PeZBOT" +exec pezbot.cfg
+
+10) Your target line should now look something like this: "C:\Program Files\Activision\Call of Duty 4 - Modern Warfare\iw3mp.exe" +set fs_game "mods/PeZBOT" +exec pezbot.cfg
+
+11) Now all you need to do, is click "Ok", then Double-Click on the shortcut and away you go. 
+
+12) When in game, to add the bots all you need to do is open up the console with the ~ key, and type /svr_pezbots # (replace # with the amount of bots you wish to have)
+
+13) Check below for more DVARs and other methods of how to add bots / change PeZBOT settings!
+
+14) One last thing - Be sure to have Punkbuster turned OFF in options, and be sure that "Dedicated" in server settings is on "No".
+
+
+--------------------------------------------------
+How to install on Steam version of Call of Duty 4:
+--------------------------------------------------
+
+1) Read steps 1, 2 and 3 above.
+
+2) Navigate to this directory (default): "C:\Program Files\Steam\steamapps\common\call of duty 4" 
+
+3) Read steps 5 and 7 above. 
+
+4) Right-Click on Call of Duty 4: Modern Warfare in your Games List, and select Properties > Set Launch Options.
+
+4) While in Launch Options, type (or copy and paste) this into the box:
++set fs_game "mods/PeZBOT" +exec pezbot.cfg
+
+5) Choose "Ok" then "Close".
+
+6) Read steps 12, 13 and 14 above. 
+
+7) When launching the game, select to launch it in Multiplayer.
+
+
+======
+DVARS:
+======
+
+svr_pezbots               // Autoassign # bots (defaults to 0)
+svr_pezbots_allies	  // Add # bots to allies (defaults to 0)
+svr_pezbots_axis	  // Add # bots to axis (defaults to 0)
+svr_pezbots_useperks      // Set to 0 to disable bots choosing a random perk upon spawn (defaults to 1)
+svr_pezbots_modelchoice   // Set to 1 to enable bots to use the additional character models such as Capt. Price (defaults to 0)
+svr_pezbots_chatter	  // Set to 0 to stop bots using battlechatter (talking during game) (defaults to 1)
+svr_pezbots_playstyle	  // Set to 0 - Original (slower speed and more walking) or 1 - Faster (Run & Gun) or 2 - Both (defaults to 2)
+svr_pezbots_useperks	  // Set to 0 to disable bots choosing a random perk upon spawn. 
+svr_pezbots_modelchoice   // Set to 1 to enable bots to use the additional character models such as Capt. Price. (defaults to 0)
+svr_pezbots_dewards	  // Set to 1 to disable bots using UAV, Airstrike and Helicopter (defaults to 0)
+svr_pezbots_skill         // Bot skill level, value from 0.1 to 1 (defaults to 0.5)
+svr_pezbots_XPCheat	  // Set to 1 to be instant level 55 and have all weapons unlocked (defaults to 0)
+svr_pezbots_grenadepickup // Set to 1 and bots will drop grenades/RPGs for the player to pick up and restock their grenade/RPG ammunition (defaults to 0)
+svr_pezbots_roundCount    // Restarts the listen server after # amount of maps - workaround for "running out of bots" (defaults to 2)
+
+
+
+==========================================================
+Other methods of adding bots and changing PeZBOT settings:
+==========================================================
+
+--------------------
+In-Game PeZBOT Menu:
+--------------------
+
+In version 010p and later we now have an in-game PeZBOT menu so that you can add bots without having to open the console or using the pezbot.cfg. 
+
+To use the in-game menu, press B (default - Quick Commands Menu), then select PeZBOT. You can change the settings and add bots through here. 
+
+
+--------------------
+pezbot.cfg
+--------------------
+
+You can ignore the pezbot.cfg file if you are going to use the In-Game PeZBOT Menu or the console, but this is probably the most convenient method of adding bots and changing PeZBOT settings if you don't plan to change the amount of bots you play with / settings, etc. 
+
+Simply go to the PeZBOT folder and open the "pezbot.cfg" in notepad. Edit the settings to your liking - it should be quite easy to follow. 
+
+Please note that you require to have +exec pezbot.cfg in the command line for this to work.
+
+=================
+Playing over LAN:
+=================
+
+If you are trying to play over LAN with a friend, you may notice that the hosting machines server may not appear in the server list. If not, try the following:
+
+1) Open up normal Call of Duty 4. (Not PeZBOT!)
+2) Start a server with the hosting machine.
+3) Search for the server with the client.
+4) When you see the server, click on it once and add it to favorites.
+5) Start up PeZBOT server on the host.
+6) Start up PeZBOT on the client, and go to your favorites.
+7) Join the server you added to favorites earlier. 

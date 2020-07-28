@@ -1,0 +1,166 @@
+============
+Waypointing:
+============
+
+If you make your own custom waypoints for any custom maps, or existing stock maps we encourage you to visit the PeZBOT forum and share them with others: http://www.moddb.com/mods/pezbot/forum  
+
+-------------------
+Installation/Setup:
+-------------------
+
+First, install the mod normally. (Refer to the "Installation document for instructions.) 
+
+In order to use the waypoint editor you must start PeZBOT in dev mode by using this as your command line:
++set fs_game "mods/PeZBOT" +exec pezbot_dev.cfg +set developer_script 1
+
+
+---------------------
+Waypointing Controls:
+---------------------
+
+Attack Button (Left Mouse Button by default):------ Add waypoint
+Ads Button (Right Mouse Button by default):-------- Delete waypoint.
+Special Grenade Button (4 by default):------------- Change Waypoint Type.
+Use Button (F by default):------------------------- Start Link/Confirm Link.
+Frag Button (Middle Mouse Button by default):------ Start Link/Remove Link.
+Melee Button (V by default):----------------------- Save waypoints to console_mp.log in PeZBOT mod folder.
+K:------------------------------------------------- Add a Killpoint.
+H:------------------------------------------------- Instantly warp to the next spawn point.
+HOME:---------------------------------------------- Initiate Auto-Waypointing.   
+
+
+----------------
+Waypoint Colors:
+----------------
+
+Red:------------- Waypoint with no children, this is bad, link it to another waypoint or remove it. 
+Purple:---------- Waypoint with one child, this is not so bad however it is a dead end, these are especially good for getting the bots to go to the right place up next to the objective in headquarters.
+Green:----------- Waypoint with more than one child, these are safe.
+Yellow:---------- Climbing Waypoint Type.
+Black:----------- Killpoint. 
+
+
+--------------------------
+The basics of waypointing:
+--------------------------
+
+Waypoints are represented by a colored vertical line, links between waypoints are represented by blue lines. All waypoints have a radius around them which you have to be within to modify them. When you are in range of a waypoint the line color will pulse to let you know you are in range.
+
+To start waypointing, simply open a map. If you start the map in the Team Deathmatch mode then a waypoint will automatically be placed on every spawn point on the map. If you start the map in other modes, no spawn waypoints will appear. 
+
+Once you are in a map ready to start waypointing, press the Attack Button (Add Waypoint). You will see a red line appear where you are standing. This is a waypoint. Next, take a few steps further and add another waypoint. You should now have two red lines (waypoints).
+
+Next you need to connect the two waypoints together so that the bots will follow them. Hover over one of the red waypoints and press the Use Button (F by default). You will see "Waypoint link started" appear on the side of the screen. Simply walk over to your other red waypoints and press F again. You will see the waypoints themselves turn to purple, and a blue line appear in between the two waypoints. These blue lines are what the bots follow. Just keep adding waypoints like you have just done, and keep linking them together and the bots will follow them. Remember: Do not leave any red waypoints. 
+
+
+-------------------
+Climbing waypoints:
+-------------------
+
+Approach the base of the ladder you want the bot to climb. Get as close as you can to the ladder without actually getting on, and place a waypoint. Once the waypoint is placed hover over it and press the Special Grenade Button (4 by default). The waypoint will now be a climbing waypoint type. (Please note that the direction you are facing when you place the waypoint or change the waypoint type is the direction that the bot will face when climbing!) 
+
+Now climb to the top of the ladder and move forward a few inches. Place another waypoint and change the type to climbing. (Please note that the direction you are facing when you place the waypoint or change the waypoint type is the direction that the bot will face when climbing!) 
+
+You now have two climbing waypoints - simply connect them together and the bots should climb.
+
+Climbing waypoints should appear as yellow.
+
+
+-----------
+Killpoints:
+-----------
+
+Killpoints work a little different than normal waypoints. Firstly, You cannot simply add a normal waypoint and change its type to a killpoint - you need to press K to add one. Secondly, you do not connect them to any normal waypoints. Then what are they for? As the name indicates, the bots will be killed when they get within a certain radius of the waypoint. These are used to make bots respawn if they get stuck in an object. To place a killpoint in an object, you will need to start the map in dev mode. To do this, simply type this into the console:
+/devmap mp_mapname
+
+Replace mp_mapname with the name of the map you wish to load. When the map loads, open the console and type:
+/sv_cheats 1
+and
+/noclip
+
+This will allow you do move into any object, then simply add a killpoint. Use killpoints when you see bots often getting stuck in objects, or try to move the waypoints around a bit in that area so the bots don't get to close to the annoying objects they get stuck in. 
+
+Killpoints will appear black. 
+
+
+-----------------
+Auto-Waypointing:
+-----------------
+
+Auto-Waypointing will simply allow you to cover large hallways and such in a shorter period of time than normal. When you initiate auto-waypointing, waypoints will automatically be placed behind you and linked together. 
+
+To start auto-waypointing, press the HOME button on your keyboard. Simply start walking and you will see that waypoints will be placed behind you and linked together. Once you have finished auto-waypointing, simply press HOME again to stop. 
+
+
+-------------------------------
+Saving your finished waypoints:
+-------------------------------
+
+Once you have finished waypointing your map, press melee (V by default). You will see a message flash up on screen indicating that the waypoints have been saved. This is sometimes a little buggy, so press the save button 3-5 times to make sure that it outputs properly. 
+
+Now exit the game and navigate to where the game is installed. Go into the mods folder, then into the PeZBOT folder. Here you will find a "console_mp" text document. Open it.
+
+You will now see a large list of level.waypoints and other text. These are your maps waypoints stored in this file. 
+
+Start by highlighting from this line:
+
+// =========================================================================================
+
+to here:
+
+    level.waypointCount = level.waypoints.size;
+}
+
+If you did not save multiple times and it didn't output properly, you will not see those last two lines. Copy and paste what you have highlighted into a new text document (or delete all of the text that you didn't highlight.) 
+
+Save the file as the name listed at the top. The name will look something like this
+
+// File Name = 'mp_mapname_waypoints.gsc'
+// Map Name  = 'mp_mapname'
+
+So save the notepad file with the recorded waypoints as "mp_mapname_waypoints.gsc". Be sure to have the .gsc at the end so the file will be saved as a .gsc file, not as a text file.
+
+Be sure to the line that looks like this (with the map name you are waypointing for):
+
+	else if(mapname == 'mp_mapname')
+	{
+        thread Waypoints/mp_mapname_waypoints::load_waypoints();
+    	}
+
+Paste this line in your "select_map.gsc" file. TO get to this file, open up the folder you installed PeZBOT to, open the "PeZBOT.iwd" file (in an archiving program such as WinRAR) and navigate into Waypoints, then open "select_map.gsc".
+
+Go Down To where it says:
+
+// New Maps After This
+
+...
+
+// New Maps Before This
+
+Paste The copied info from above into this section. Now replace the:
+
+'mp_mapname'
+
+With double quotes, so it will look like this:
+
+"mp_mapname"
+
+And then simply exchange the forward-slash between "thread Waypoints" and "mp_mapname_waypoints" with a backslash. It should look something like this when you have finished (except with all the stock maps listed, too):
+
+// New Maps After This
+
+    else if(mapname == "mp_strike")
+    {
+        thread Waypoints\mp_strike_waypoints::load_waypoints();
+    }
+
+    else if(mapname == "mp_backlot")
+    {
+        thread Waypoints\mp_backlot_waypoints::load_waypoints();
+    }
+
+// New Maps Before This
+
+Then save and exit the file. Now drop your saved "mp_mapname_waypoints.gsc" file into this directory with the other waypoints and the "select_map" file. 
+
+If you make your own custom waypoints for any custom maps, or existing stock maps we encourage you to visit the PeZBOT forum and share them with others: http://www.moddb.com/mods/pezbot/forum  
